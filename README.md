@@ -24,7 +24,8 @@ The dataset contains:
 - These insights can help businesses target marketing campaigns for better sales.
 
 ## Sample Visualization
-
+![Orders VS Top 10 States](P1-SS1.png)
+![Count of Occupation](P1-SS2.png)
 
 ## How to Run the Project
 1. Clone this repo:
